@@ -81,11 +81,3 @@ I prefer:
 </div>
 
 ---
-
-<div align="center">
-
-### 💻 Build. Break. Learn. Repeat.
-
-<img src="https://komarev.com/ghpvc/?username=mohamad-mobin&style=for-the-badge&color=blue" alt="Profile Views" />
-
-</div>
