@@ -29,20 +29,6 @@ My main focus is the **Vue ecosystem**, especially **Vue.js** and **Nuxt.js**. I
 
 I'm also deeply interested in **Linux**, developer tooling, Git, open-source workflows, and understanding how the tools I use actually work under the hood.
 
-```text
-Frontend Development
-        ↓
-Vue.js → Nuxt.js → Tailwind CSS
-        ↓
-Clean UI → Good UX → Maintainable Code
-        ↓
-Git → GitHub → Open Source
-        ↓
-Linux → Terminal → Better Workflow
-```
-
----
-
 ## 🚀 What I'm Working With
 
 ### 🎨 Frontend
