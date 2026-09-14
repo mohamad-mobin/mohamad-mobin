@@ -66,38 +66,6 @@ I prefer:
 
 </div>
 
----
-
-## 🔥 What You'll Find Here
-
-```text
-🌐 Frontend Projects
-⚡ Vue / Nuxt Experiments
-🎨 UI & UX Experiments
-🧪 JavaScript Projects
-🐧 Linux Experiments
-🔧 Developer Tools
-🌱 Learning Projects
-🤝 Open Source Contributions
-```
-
----
-
-## 📌 Open Source
-
-I enjoy working with Git and GitHub not only as version-control tools, but as part of the development process itself.
-
-I'm interested in:
-
-* Pull Requests
-* Code Reviews
-* Branching strategies
-* Collaborative development
-* Open Source contributions
-* Writing clean commit history
-
----
-
 ## 📫 Find Me
 
 <div align="center">
