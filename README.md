@@ -60,6 +60,10 @@ I prefer:
   <img src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=google-chrome&logoColor=black" />
 </a>
 
+<a href="https://mobin-rezaee-cv.vercel.app">
+  <img src="https://img.shields.io/badge/telegram?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
 </div>
 
 ---
