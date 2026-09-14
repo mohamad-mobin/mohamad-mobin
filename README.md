@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+%26+Nuxt.js+Developer;Linux+%26+Open+Source+Enthusiast;Building+Clean+%26+Interactive+Web+Experiences" alt="Typing SVG" />
 </p>
 
+<a href="https://mobin-rezaee-cv.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
 </div>
 
 ---
@@ -54,10 +58,6 @@ I prefer:
 
 <a href="https://github.com/mohamad-mobin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://mobin-rezaee-cv.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=google-chrome&logoColor=black" />
 </a>
 
 <a href="https://t.me/ALONE_LIBERAL">
