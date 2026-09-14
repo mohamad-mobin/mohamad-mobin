@@ -51,8 +51,6 @@ I prefer:
 * 🔍 Understanding the tools instead of blindly using them
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></img>
-
 ## 📫 Find Me
 
 <div align="center">
@@ -69,3 +67,7 @@ I prefer:
 
 ---
 <div align="center">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></img>
