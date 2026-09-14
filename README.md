@@ -31,7 +31,7 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
 ### 🛠️ Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,bash,terminal" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,bash" />
   <img src="https://cdn.simpleicons.org/ffmpeg" width="48" height="48" alt="FFmpeg" />
 </p>
 
