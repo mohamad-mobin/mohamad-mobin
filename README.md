@@ -31,7 +31,7 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
 ### 🛠️ Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,ffmpeg" />
 </p>
 
 ## 🧠 My Development Philosophy
