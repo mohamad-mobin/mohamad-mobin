@@ -74,7 +74,7 @@ I prefer:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://mobin-cv.netlify.app">
+<a href="mobin-rezaee-cv.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=google-chrome&logoColor=black" />
 </a>
 
