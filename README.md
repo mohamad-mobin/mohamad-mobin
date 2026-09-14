@@ -25,6 +25,10 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
 ### 🎨 Frontend
 
 <p>
+  <img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+%26+Nuxt.js+Developer;Linux+%26+Open+Source+Enthusiast;Building+Clean+%26+Interactive+Web+Experiences"
+  alt="Typing SVG"
+/>
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,tailwind,vite" />
 </p>
 
