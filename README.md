@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></img>
-<div align="center">
-
 # Hi 👋, I'm Mobin
 
 ### Frontend Developer • Vue.js & Nuxt.js Lover
@@ -68,3 +65,5 @@ I prefer:
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></img>
+<div align="center">
