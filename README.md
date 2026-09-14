@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mobin
+# Hi 👋, I'm Mobin | سلام من مبینم
 
 ### Frontend Developer • Vue.js & Nuxt.js Lover
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | درباره من
 
 I'm a **Frontend Developer** who enjoys turning ideas into clean, interactive, and responsive web experiences.
 
@@ -20,7 +20,7 @@ My main focus is the **Vue ecosystem**, especially **Vue.js** and **Nuxt.js**. I
 
 I'm also deeply interested in **Linux**, developer tooling, Git, open-source workflows, and understanding how the tools I use actually work under the hood.
 
-## 🚀 What I'm Working With
+## 🚀 What I'm Working With | با چی کار میکنم
 
 ### 🎨 Frontend
 
@@ -35,7 +35,7 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
   <img src="https://cdn.simpleicons.org/ffmpeg" width="48" height="48" alt="FFmpeg" />
 </p>
 
-## 🧠 My Development Philosophy
+## 🧠 My Development Philosophy | فلسفه توسعه من
 
 > **Write code that you can understand six months later.**
 
@@ -48,7 +48,7 @@ I prefer:
 * 🎨 UI that feels good, not just UI that technically works
 * 🔍 Understanding the tools instead of blindly using them
 
-## 📫 Find Me
+## 📫 Find Me | راه ارتباطی
 
 <div align="center">
 
