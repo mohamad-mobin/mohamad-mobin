@@ -25,7 +25,7 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,tailwind,vite" />
 </p>
 
 ### 🛠️ Tools & Environment
