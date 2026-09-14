@@ -45,23 +45,6 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
 
 ---
 
-## 💼 Featured Project
-
-### 📁 Odoo File Manager
-
-A modern **Nuxt/Vue frontend** for an Odoo-based file management system.
-
-**Highlights:**
-
-* 📂 Folder and file management
-* 🔄 Dynamic folder navigation
-* 📤 Chunked file uploads
-* ⏹️ Upload cancellation with `AbortController`
-* 📊 Upload progress tracking
-* 🧩 Reusable Vue composables
-* 📱 Responsive interface
-* ⚡ API integration with Nuxt/Nitro
-
 **Tech Stack**
 
 `Vue.js` `Nuxt.js` `JavaScript` `Tailwind CSS` `REST API` `Git`
