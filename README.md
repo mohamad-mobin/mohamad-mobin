@@ -34,16 +34,6 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
   <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" />
 </p>
 
-### 📚 Currently Learning
-
-* Advanced **Nuxt.js**
-* **TypeScript**
-* Advanced **Git & GitHub workflows**
-* Linux & command-line tools
-* Open Source contribution workflows
-* Frontend architecture and scalable component design
-
-
 ## 🧠 My Development Philosophy
 
 > **Write code that you can understand six months later.**
