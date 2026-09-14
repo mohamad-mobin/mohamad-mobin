@@ -47,39 +47,6 @@ I prefer:
 * 🎨 UI that feels good, not just UI that technically works
 * 🔍 Understanding the tools instead of blindly using them
 
----
-
-## 🐧 Linux & Developer Workflow
-
-My development environment is based on **Ubuntu Linux**.
-
-I'm particularly interested in understanding the system beyond the GUI:
-
-```bash
-Git
-├── branches
-├── remotes
-├── refs
-├── fetch / pull / push
-├── reset / restore / revert
-└── GitHub workflows
-```
-
-```text
-Ubuntu
- ├── Terminal
- ├── Bash
- ├── Git
- ├── SSH
- ├── FFmpeg
- └── Developer tooling
-```
-
-Linux isn't just my operating system.
-
-It's part of how I like to understand my development environment.
-
----
 
 ## 📊 GitHub Statistics
 
