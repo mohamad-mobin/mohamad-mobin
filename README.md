@@ -8,15 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+%26+Nuxt.js+Developer;Linux+%26+Open+Source+Enthusiast;Building+Clean+%26+Interactive+Web+Experiences" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="https://github.com/mohamad-mobin">
-    <img src="https://img.shields.io/github/followers/mohamad-mobin?label=Followers&style=for-the-badge" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/mohamad-mobin">
-    <img src="https://img.shields.io/github/stars/mohamad-mobin?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub Stars">
-  </a>
-</p>
-
 </div>
 
 ---
