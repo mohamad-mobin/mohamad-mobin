@@ -65,7 +65,6 @@ I prefer:
 
 </div>
 
----
 <div align="center">
 
 <br>
