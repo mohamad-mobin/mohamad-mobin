@@ -60,7 +60,7 @@ I prefer:
   <img src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=google-chrome&logoColor=black" />
 </a>
 
-<a href="https://t.me/mobin">
+<a href="https://t.me/ALONE_LIBERAL">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
