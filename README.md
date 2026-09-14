@@ -43,13 +43,6 @@ I'm also deeply interested in **Linux**, developer tooling, Git, open-source wor
 * Open Source contribution workflows
 * Frontend architecture and scalable component design
 
----
-
-**Tech Stack**
-
-`Vue.js` `Nuxt.js` `JavaScript` `Tailwind CSS` `REST API` `Git`
-
----
 
 ## 🧠 My Development Philosophy
 
